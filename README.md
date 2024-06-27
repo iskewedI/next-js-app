@@ -45,7 +45,8 @@ To get started with this project, follow these steps:
 ## Project Structure
 
 The project structure is organized as follows:
-├── app
+```bash
+├──
 │ ├── components
 │ │ └── Layout.tsx
 │ ├── hydration
@@ -61,6 +62,7 @@ The project structure is organized as follows:
 ├── tailwind.config.js
 ├── package.json
 └── README.md
+```
 
 ### Explanation:
 
