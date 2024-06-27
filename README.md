@@ -91,3 +91,7 @@ This project uses the following technologies:
 - **[Next.js](https://nextjs.org/)**: React framework for server-rendered applications.
 - **[React](https://reactjs.org/)**: JavaScript library for building user interfaces.
 - **[Tailwind CSS](https://tailwindcss.com/)**: Utility-first CSS framework for rapid UI development.
+
+
+## Showcase
+![NextJS](https://github.com/iskewedI/next-js-app/assets/52925249/b3b51db2-72f8-47b2-aeb7-7c4a0b44fd8e)
